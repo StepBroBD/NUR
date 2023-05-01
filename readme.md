@@ -1,10 +1,12 @@
 # Nix User Repository: GitHub:StepBroBD/NUR
 
-Generated from Nix Community NUR template.
-
 ![Build and Cache](https://github.com/stepbrobd/nur/actions/workflows/build.yml/badge.svg)
-$\rightarrow$
+
+$\downarrow$
+
 [![Cachix Cache](https://img.shields.io/badge/cachix-stepbrobd-blue.svg)](https://stepbrobd.cachix.org)
+
+Generated from Nix Community NUR template.
 
 ## Setup
 
